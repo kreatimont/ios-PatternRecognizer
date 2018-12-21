@@ -361,9 +361,9 @@ class CoinViewController: UIViewController, Alertable {
             return "10 коп."
         case 14..<17:
             return "25 коп."
-        case 17..<18:
+        case 17..<17.9:
             return "50 коп."
-        case 18..<24:
+        case 17.9..<24:
             return "5 коп."
         default:
             return ""
