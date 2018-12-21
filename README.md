@@ -9,4 +9,4 @@ Xcode 10.1 & Swift 4.2
 ## Screenshots:
  Figures detection           		      | Coins recognizer			          
 :------------------------------------:|:-----------------------------:
-![movies](https://github.com/kreatimont/ios-PatternRecognizer/raw/master/preview/matrix.png)     |![detail](https://github.com/kreatimont/ios-PatternRecognizer/raw/master/preview/coins.png)
+![movies](https://github.com/kreatimont/ios-PatternRecognizer/raw/master/preview/matrix.png)     |![detail](https://github.com/kreatimont/ios-PatternRecognizer/raw/master/preview/coins.jpg)
